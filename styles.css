@@ -1,0 +1,60 @@
+body {
+  background-color: #310736;
+  color: #FFFFFF;
+}
+
+.homepage h1 {
+  text-align: center;
+  background: #05ffb0;
+  border: 2px solid #05ffb0;
+  color: #310736;
+  font-family: 'Roboto Slab', serif;
+}
+
+.homepage p {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 16px;
+  background-color: #310736;
+  color: #FFFFFF
+}
+
+.gallery h3 {
+  font-family: 'Roboto Slab', serif;
+  font-size: 17px;
+  padding: 2rem 0 0 0;
+  font-weight: bold;
+}
+
+.gallery p {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 16px;
+  padding: 6px;
+  text-align: center;
+}
+
+.gallery img {
+  float: none;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  color: grey;
+  font-size: 12px;
+  text-align: center;
+}
+
+.tac {
+  text-align: center;
+}
