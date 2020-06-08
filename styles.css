@@ -1,6 +1,7 @@
 body {
   background-color: #310736;
   color: #FFFFFF;
+  margin-bottom: 50px;
 }
 
 .homepage h1 {
@@ -36,6 +37,11 @@ body {
   float: none;
 }
 
+.fix_img {
+  max-width: 100%;
+  height: auto;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -50,9 +56,10 @@ li {
   position: fixed;
   bottom: 0;
   width: 100%;
-  color: grey;
+  color: white;
   font-size: 12px;
   text-align: center;
+  background-color: black;
 }
 
 .tac {
